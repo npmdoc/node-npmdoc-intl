@@ -1,9 +1,14 @@
-# api documentation for  [intl (v1.2.5)](https://github.com/andyearnshaw/Intl.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-intl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-intl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-intl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-intl)
+# npmdoc-intl
+
+#### api documentation for  [intl (v1.2.5)](https://github.com/andyearnshaw/Intl.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-intl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-intl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-intl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-intl)
+
 #### Polyfill the ECMA-402 Intl API (except collation)
 
-[![NPM](https://nodei.co/npm/intl.png?downloads=true)](https://www.npmjs.com/package/intl)
+[![NPM](https://nodei.co/npm/intl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/intl)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-intl/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-intl_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-intl/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-intl/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-intl/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-intl/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-intl/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-intl/build/screenCapture.npmPackageListing.svg)
 
@@ -102,17 +107,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "andyearnshaw",
-            "email": "andyearnshaw+npm@gmail.com"
+            "name": "andyearnshaw"
         },
         {
-            "name": "caridy",
-            "email": "caridy@gmail.com"
+            "name": "caridy"
         }
     ],
     "name": "intl",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/andyearnshaw/Intl.js.git"
@@ -134,17 +136,6 @@
     "version": "1.2.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module intl](#apidoc.module.intl)
-1.  object <span class="apidocSignatureSpan">intl.</span>__localeSensitiveProtos
-
-
-
-# <a name="apidoc.module.intl"></a>[module intl](#apidoc.module.intl)
 
 
 
